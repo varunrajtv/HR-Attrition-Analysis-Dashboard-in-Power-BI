@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard in Power BI
 
-This project is an interactive **HR Attrition Analysis Dashboard** built in **Power BI** to analyze employee attrition patterns and workforce trends.
+This project is an interactive HR Attrition Analysis Dashboard built in Power BI to analyze employee attrition patterns and workforce trends.
 
 ## Key Insights Covered
 - Attrition by Job Role
